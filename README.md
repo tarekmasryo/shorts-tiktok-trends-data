@@ -73,6 +73,12 @@ Attribution not required, but always appreciated.
 
 ---
 
+## Related Repositories
+- 📂 [Shorts & TikTok Trends EDA](https://github.com/tarekmasryo/shorts-tiktok-trends)
+
+
+---
+
 ## 💡 Example Usage  
 
 ```python
@@ -88,7 +94,6 @@ df[['views','likes','comments','shares']].describe()
 monthly = pd.read_csv("monthly_trends_2025.csv")
 monthly.groupby("year_month")[["views","n_videos"]].sum().plot(kind="bar")
 
----
 
-## Related Repositories
-- 📂 [Shorts & TikTok Trends EDA](https://github.com/tarekmasryo/shorts-tiktok-trends)
+
+
