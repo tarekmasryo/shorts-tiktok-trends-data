@@ -68,8 +68,8 @@ Complete metadata (**58 rows**) with column names, descriptions, and data types.
 ---
 
 ## 📜 Licensing  
-- **Dataset:** CC0 (Public Domain) — free for open research & education.  
-Attribution not required, but always appreciated.  
+- **Dataset:** - **Dataset:** CC BY 4.0 (Attribution International)** — free to use, share, and adapt **with attribution**.
+
 
 ---
 
